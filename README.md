@@ -25,4 +25,6 @@ The best variables for the purposes of prediction are selected through SelectKBe
 A linear regression model has been applied to the data to predict the sales of a particular item in a particular supermarket outlet. 
 The findings have been explained in the business context so as to help the business team of BigMart. 
 
+The dataset has been obtained from Kaggle (https://www.kaggle.com/arashnic/big-mart-sale-forecast). 
+
 
